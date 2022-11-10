@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EDE86D7-3212-4C43-82E5-3F8AC68CA34D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PetTrackerByEliteCoders</RootNamespace>
+    <AssemblyName>PetTrackerByEliteCoders</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Charts.WinForms, Version=1.1.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Charts.WinForms.1.1.5\lib\net40\Bunifu.Charts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Dataviz.WinForms, Version=2.2.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Dataviz.WinForms.2.2.0\lib\Bunifu.Dataviz.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Charts.WinForms.1.1.5\lib\net40\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Reports, Version=1.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Reports.1.0.5\lib\net45\Bunifu.Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.1.5.3, Version=1.5.3.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGradientPanel, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuGradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGroupBox, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuGroupBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLoader, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRating, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuRating.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSeparator, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuSeparator.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShadowPanel, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShapes, Version=5.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuShapes.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSnackbar, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuSnackbar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextBox, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToggleSwitch, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.Deprecated, Version=5.2.2.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.Deprecated.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Utils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Utils.1.0.6\lib\net\Bunifu.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonServiceLocator, Version=2.0.5.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\CommonServiceLocator.2.0.5\lib\net47\CommonServiceLocator.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.Charts.WinForms, Version=1.0.2.0, Culture=neutral, PublicKeyToken=4cb9ae78886bbe24, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.Charts.WinForms.1.0.2\lib\net40\Guna.Charts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.2.4, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.2.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.1.1.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.1.1.1\lib\netstandard1.1\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.1.1.1\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\..\xampp\mysql\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenHtmlToPdf, Version=1.12.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenHtmlToPdf.1.12.0.0\lib\net45\OpenHtmlToPdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.AppContext, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.AppContext.4.3.0\lib\net463\System.AppContext.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.1.3.1\lib\portable-net45+win8+wp8+wpa81\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Console, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Console.4.3.0\lib\net46\System.Console.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.Tracing.4.3.0\lib\net462\System.Diagnostics.Tracing.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Globalization.Calendars.4.3.0\lib\net46\System.Globalization.Calendars.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.4.3.0\lib\net46\System.IO.Compression.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.ZipFile.4.3.0\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Linq, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.4.3.0\lib\net463\System.Linq.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Linq.Expressions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.Expressions.4.3.0\lib\net463\System.Linq.Expressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.2\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.0\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Sockets, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Sockets.4.3.0\lib\net46\System.Net.Sockets.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reflection.4.3.0\lib\net462\System.Reflection.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.Extensions.4.3.0\lib\net462\System.Runtime.Extensions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.4.3.0\lib\net463\System.Runtime.InteropServices.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Text.RegularExpressions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.RegularExpressions.4.3.0\lib\net463\System.Text.RegularExpressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.4.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.ReaderWriter, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Xml.ReaderWriter.4.3.0\lib\net46\System.Xml.ReaderWriter.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Uno, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.Core.3.0.0\lib\net46\Uno.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Diagnostics.Eventing, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.Diagnostics.Eventing.1.0.4\lib\netstandard2.0\Uno.Diagnostics.Eventing.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Foundation, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.Foundation.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.FluentTheme, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.UI.FluentTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.FluentTheme.v1, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.UI.FluentTheme.v1.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.FluentTheme.v2, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.UI.FluentTheme.v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.Toolkit, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.UI.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Xaml, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uno.UI.3.10.11\lib\netstandard2.0\Uno.Xaml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewPet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewPet.Designer.cs">
+      <DependentUpon>AddNewPet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckPetStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckPetStatus.Designer.cs">
+      <DependentUpon>CheckPetStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditRecords.Designer.cs">
+      <DependentUpon>EditRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="myDBConnection.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportPet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportPet.Designer.cs">
+      <DependentUpon>ReportPet.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNewPet.resx">
+      <DependentUpon>AddNewPet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckPetStatus.resx">
+      <DependentUpon>CheckPetStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditRecords.resx">
+      <DependentUpon>EditRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportPet.resx">
+      <DependentUpon>ReportPet.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footprints.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\petHome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pets_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male_user_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secure_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secure_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pets_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pets_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\macos_minimize_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_user_male_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_right_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_512px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add pet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connection_status_on_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signal_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_property_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google_maps_old_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_collar_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_in_the_tree_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_walking_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pet_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leave_house_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puppy_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_speaking_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group_of_animals_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duck_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pet tracker logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animal_shelter_500px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footprint_scanning_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_512px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_left_rotation_512px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_left_rotation_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_200px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_property_500px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enter_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orcid_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orcid_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circled_envelope_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circled_envelope_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viber_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\postal_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male_user_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secure_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erase_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\veterinarian_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cat in the Bin_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cemetery_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\headstone_200px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cemetery_80px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_in_the_tree_96px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_card_500px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stethoscope_500px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Uno.Core.Build.3.0.0\build\Uno.Core.Build.targets" Condition="Exists('..\packages\Uno.Core.Build.3.0.0\build\Uno.Core.Build.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Uno.Core.Build.3.0.0\build\Uno.Core.Build.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Uno.Core.Build.3.0.0\build\Uno.Core.Build.targets'))" />
+    <Error Condition="!Exists('..\packages\Uno.SourceGenerationTasks.3.2.0\build\netstandard1.0\Uno.SourceGenerationTasks.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Uno.SourceGenerationTasks.3.2.0\build\netstandard1.0\Uno.SourceGenerationTasks.targets'))" />
+  </Target>
+  <Import Project="..\packages\Uno.SourceGenerationTasks.3.2.0\build\netstandard1.0\Uno.SourceGenerationTasks.targets" Condition="Exists('..\packages\Uno.SourceGenerationTasks.3.2.0\build\netstandard1.0\Uno.SourceGenerationTasks.targets')" />
+</Project>

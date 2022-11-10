@@ -1,0 +1,264 @@
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\PetTrackerByEliteCoders.exe
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Guna.UI2.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\MySql.Data.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\PetTrackerByEliteCoders.exe.config
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Reports.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Utils.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\CommonServiceLocator.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Buffers.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Memory.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.ValueTuple.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Core.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Foundation.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Xaml.dll
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Buffers.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Memory.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.ValueTuple.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Core.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Core.xml
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.AssemblyReference.cache
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.AddNewPet.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.EditRecords.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Home.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Loading.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Login.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Properties.Resources.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Register.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.GenerateResource.cache
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.CoreCompileInputs.cache
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.CopyComplete
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.exe
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\PetTrackerByEliteCoders.pdb
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.ReportPet.resources
+C:\Users\Mashxnisa\source\repos\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.CheckPetStatus.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\PetTrackerByEliteCoders.exe.config
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\PetTrackerByEliteCoders.exe
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\PetTrackerByEliteCoders.pdb
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Reports.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Utils.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\CommonServiceLocator.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Guna.UI2.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\OpenHtmlToPdf.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Buffers.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Memory.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.ValueTuple.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Core.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Foundation.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Xaml.dll
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Buffers.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Memory.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\System.ValueTuple.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Core.pdb
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Core.xml
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.AssemblyReference.cache
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.AddNewPet.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.CheckPetStatus.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.EditRecords.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Home.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Loading.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Login.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Properties.Resources.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.Register.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.ReportPet.resources
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.GenerateResource.cache
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.CoreCompileInputs.cache
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.csproj.CopyComplete
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.exe
+C:\Users\Mashxnisa\Documents\VS Projects\PetTrackerByEliteCoders\PetTrackerByEliteCoders\obj\Debug\PetTrackerByEliteCoders.pdb
